@@ -1,0 +1,75 @@
+<project name="Jafe" default="build-all">
+	<property name="appname" value="Jafe" />
+	<property name="version" value="0.8" />
+
+	<property name="src" value="src" />
+	<property name="src.add" value="srcAdd" />
+	<property name="test" value="test" />
+	<property name="build" value="build" />
+	<property name="dist" value="dist" />
+	<property name="lib" value="lib" />
+
+	<property name="jar" value="${appname}-${version}.jar" />
+	<property name="src.zip" value="${appname}-${version}.zip" />
+	
+	<property name="lib.zonelayout" value="${lib}/zoneLayout-1.0b1.jar" />
+
+	<target name="compile" description="compila i sorgenti">
+		<delete dir="${build}" />
+		<mkdir dir="${build}" />
+		<javac srcdir="${src};${src.add}" classpath="${lib.zonelayout}" destdir="${build}" optimize="on" target="1.4" source="1.4" />
+		<unjar src="${lib.zonelayout}" dest="${build}"/>
+	</target>
+
+	<target name="jar" depends="compile">
+		<mkdir dir="${dist}" />
+		<jar destfile="${dist}/${jar}" compress="true" index="false">
+			<manifest>
+				<attribute name="Main-Class" value="Jafe" />
+			</manifest>
+			<fileset dir="${build}">
+				<include name="**/*.class" />
+				<include name="CHANGELOG" />
+				<include name="BUGS" />
+			</fileset>
+			<fileset dir="${src}">
+				<include name="**/*.png" />
+				<include name="**/*.po" />
+				<include name="**/*.pot" />
+				<include name="**/*.properties" />
+				<include name="LICENSE" />
+			</fileset>
+			<fileset dir="${src.add}">
+				<include name="README" />
+			</fileset>
+		</jar>
+	</target>
+
+	<target name="src-zip" depends="jar">
+		<mkdir dir="${dist}" />
+		<zip destfile="${dist}/${src.zip}" compress="true">
+			<zipfileset dir="${basedir}" prefix="${appname}">
+				<include name="**/*.java" />
+				<include name="**/*.png" />
+				<include name="**/*.properties" />
+				<include name="**/*.xml" />
+				<include name="**/*.po" />
+				<include name="**/*.pot" />
+				<exclude name="classes/**/*" />
+				<include name=".settings/*" />
+				<include name="TODO" />
+				<include name="LICENSE" />
+				<include name="README" />
+				<include name="CHANGELOG" />
+				<include name="BUGS" />
+				<include name=".project" />
+				<include name=".classpath" />
+				<include name="${dist}/${jar}" />
+				<include name="${lib}/${jar}" />
+				<exclude name="build.xml" />
+			</zipfileset>
+		</zip>
+	</target>
+
+	<target name="build-all" depends="jar, src-zip" />
+</project>

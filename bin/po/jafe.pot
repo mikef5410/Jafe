@@ -1,0 +1,415 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+
+# SimpleFileNodePanel.java
+msgid "(It will be actually deleted when saving the file)"
+msgstr ""
+
+# MainPanel.java
+msgid "?"
+msgstr ""
+
+# MainPanel.java
+# EmbedIntoImageDialog.java
+# SimpleFileNodePanel.java
+msgid "A problem has been encountered"
+msgstr ""
+
+# AboutDialog.java
+msgid "A secure strongbox for your data"
+msgstr ""
+
+# StegOutputStream.java
+# StegInputStream.java
+msgid "A true color (24/32 bit) image is required"
+msgstr ""
+
+# MainPanel.java
+# AboutDialog.java
+msgid "About"
+msgstr ""
+
+# NewNodeDialog.java
+msgid "Account"
+msgstr ""
+
+# SidePanel.java
+msgid "Add new item"
+msgstr ""
+
+# MainPanel.java
+msgid "An updated version (%s) is available; please upgrade\nto enjoy the latest features and fixes."
+msgstr ""
+
+# OkCancelButtonPanel.java
+msgid "Cancel"
+msgstr ""
+
+# MainPanel.java
+msgid "Cannot reach the server. Check your net configuration or try again later."
+msgstr ""
+
+# MainPanel.java
+msgid "Check for updates at startup"
+msgstr ""
+
+# MainPanel.java
+msgid "Check for updates"
+msgstr ""
+
+# EmbedIntoImageDialog.java
+msgid "Choose"
+msgstr ""
+
+# FileInfoDialog.java
+msgid "Cipher"
+msgstr ""
+
+# DefinePasswordDialog.java
+# EmbedIntoImageDialog.java
+# FileInfoDialog.java
+msgid "Compression"
+msgstr ""
+
+# SidePanel.java
+# MainPanel.java
+# SimpleFileNodePanel.java
+msgid "Confirmation needed"
+msgstr ""
+
+# NewNodeDialog.java
+msgid "Create as"
+msgstr ""
+
+# DefinePasswordDialog.java
+msgid "Define encoding parameters"
+msgstr ""
+
+# SidePanel.java
+msgid "Delete item"
+msgstr ""
+
+# NewNodeDialog.java
+msgid "Directory"
+msgstr ""
+
+# SidePanel.java
+msgid "Do you really want to delete this node?"
+msgstr ""
+
+# SimpleFileNodePanel.java
+msgid "Do you want to delete the original file?"
+msgstr ""
+
+# SimpleFileNodePanel.java
+msgid "Do you wish to overwrite the existing file?"
+msgstr ""
+
+# MainPanel.java
+msgid "Edit"
+msgstr ""
+
+# MainPanel.java
+msgid "Embed into an image"
+msgstr ""
+
+# EmbedIntoImageDialog.java
+msgid "Embedding parameters"
+msgstr ""
+
+# DefinePasswordDialog.java
+# EmbedIntoImageDialog.java
+msgid "Encryption"
+msgstr ""
+
+# PasswordDialog.java
+msgid "Enter password"
+msgstr ""
+
+# SidePanel.java
+msgid "Error"
+msgstr ""
+
+# MainPanel.java
+# EmbedIntoImageDialog.java
+# SimpleFileNodePanel.java
+msgid "Failure"
+msgstr ""
+
+# MainPanel.java
+msgid "File info"
+msgstr ""
+
+# FileInfoDialog.java
+msgid "File informations"
+msgstr ""
+
+# SimpleFileNodePanel.java
+# FileInfoDialog.java
+msgid "File name"
+msgstr ""
+
+# SimpleFileNodePanel.java
+msgid "File size"
+msgstr ""
+
+# EmbedIntoImageDialog.java
+msgid "File to save the image into (PNG format)"
+msgstr ""
+
+# MainPanel.java
+# NewNodeDialog.java
+msgid "File"
+msgstr ""
+
+# NewNodeDialog.java
+msgid "Free text"
+msgstr ""
+
+# MainPanel.java
+msgid "Hide/show side panel"
+msgstr ""
+
+# MainPanel.java
+msgid "Language"
+msgstr ""
+
+# AboutDialog.java
+msgid "Licensed under the BSD License"
+msgstr ""
+
+# SimpleFileNodePanel.java
+msgid "Load file"
+msgstr ""
+
+# MainPanel.java
+msgid "Make backups if overwriting"
+msgstr ""
+
+# MainPanel.java
+# Jafe.java
+msgid "New document"
+msgstr ""
+
+# NewNodeDialog.java
+msgid "New node"
+msgstr ""
+
+# MainPanel.java
+msgid "New version available"
+msgstr ""
+
+# MainPanel.java
+msgid "New"
+msgstr ""
+
+# CompressionMethod.java
+msgid "No compression"
+msgstr ""
+
+# JafeCipherOutputStream.java
+msgid "Not initialized"
+msgstr ""
+
+# SimpleFileNodePanel.java
+msgid "Notes"
+msgstr ""
+
+# FileInfoDialog.java
+msgid "Num. of nodes"
+msgstr ""
+
+# MainPanel.java
+# OkCancelButtonPanel.java
+# OkButtonPanel.java
+# SimpleFileNodePanel.java
+msgid "Ok"
+msgstr ""
+
+# MainPanel.java
+# CustomFileDialog.java
+msgid "Open"
+msgstr ""
+
+# SimpleFileNodePanel.java
+msgid "Option"
+msgstr ""
+
+# EmbedIntoImageDialog.java
+msgid "Original image"
+msgstr ""
+
+# PasswordDialog.java
+# AccountNodePanel.java
+# DefinePasswordDialog.java
+# EmbedIntoImageDialog.java
+msgid "Password"
+msgstr ""
+
+# MainPanel.java
+msgid "Preferences"
+msgstr ""
+
+# MainPanel.java
+msgid "Quit"
+msgstr ""
+
+# MainPanel.java
+msgid "Read from an image"
+msgstr ""
+
+# MainPanel.java
+msgid "Redo"
+msgstr ""
+
+# DefinePasswordDialog.java
+# EmbedIntoImageDialog.java
+msgid "Repeat it"
+msgstr ""
+
+# SimpleFileNodePanel.java
+msgid "Reset"
+msgstr ""
+
+# MainPanel.java
+msgid "Save as"
+msgstr ""
+
+# SimpleFileNodePanel.java
+msgid "Save file"
+msgstr ""
+
+# MainPanel.java
+# CustomFileDialog.java
+msgid "Save"
+msgstr ""
+
+# SidePanel.java
+msgid "Shift down item"
+msgstr ""
+
+# SidePanel.java
+msgid "Shift up item"
+msgstr ""
+
+# NewNodeDialog.java
+msgid "Sibling of selected node"
+msgstr ""
+
+# NewNodeDialog.java
+msgid "Son of selected node"
+msgstr ""
+
+# MainPanel.java
+msgid "The application contains unsaved data; do you want to save them?"
+msgstr ""
+
+# Tree.java
+msgid "The father doesn't belong to this tree"
+msgstr ""
+
+# MainPanel.java
+msgid "The file doesn't seem to contain an image."
+msgstr ""
+
+# MainPanel.java
+msgid "The file has been created with a later version of Jafe"
+msgstr ""
+
+# MainPanel.java
+msgid "The file is corrupted. Cannot load the data."
+msgstr ""
+
+# EmbedIntoImageDialog.java
+msgid "The image is not valid (must be 24/32 bit)."
+msgstr ""
+
+# EmbedIntoImageDialog.java
+msgid "The source file doesn't seem to contain an image."
+msgstr ""
+
+# SimpleFileNodePanel.java
+msgid "This action can't be undone. Do you want to continue?"
+msgstr ""
+
+# UnknownNodePanel.java
+msgid "This node has been probably created with a later version of Jafe. \n\nThe content will be preserved when saving, but you won't be able to view it. \n\nPlease open this file with the appropriated version of Jafe."
+msgstr ""
+
+# NodePanel.java
+# NewNodeDialog.java
+msgid "Title"
+msgstr ""
+
+# Tree.java
+msgid "Too many levels of nidification"
+msgstr ""
+
+# AboutDialog.java
+msgid "Translators"
+msgstr ""
+
+# NewNodeDialog.java
+msgid "Type"
+msgstr ""
+
+# AccountNodePanel.java
+msgid "URL"
+msgstr ""
+
+# MainPanel.java
+msgid "Undo"
+msgstr ""
+
+# CompressionMethod.java
+msgid "Unknown compression method"
+msgstr ""
+
+# CipherAlgorithm.java
+msgid "Unknown encryption algorithm"
+msgstr ""
+
+# FileFormatVersion.java
+msgid "Unknown file format"
+msgstr ""
+
+# UnknownNodePanel.java
+msgid "Unknown node type"
+msgstr ""
+
+# MainPanel.java
+msgid "Unsaved"
+msgstr ""
+
+# NewNodeDialog.java
+msgid "Untitled node"
+msgstr ""
+
+# AccountNodePanel.java
+msgid "UserID"
+msgstr ""
+
+# MainPanel.java
+msgid "Wrong password"
+msgstr ""
+
+# MainPanel.java
+msgid "You already have the latest version."
+msgstr ""
+
+# SidePanel.java
+msgid "You can't do this on the root node."
+msgstr ""
+
+# SidePanel.java
+msgid "You must select a node to do this."
+msgstr ""
+
+# MainPanel.java
+# SimpleFileNodePanel.java
+msgid "Your file has been saved correctly"
+msgstr ""
+
+# SimpleFileNodePanel.java
+msgid "bytes"
+msgstr ""

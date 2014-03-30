@@ -1,0 +1,85 @@
+Changelog
+=========
+
+  Version 0.7 to 0.8
+----------------------
+
+GR: added the possibility to specify a file to open on the commandline (as first
+    argument)
+GR: bugfix: saving a file node without a file in it would crash the application
+GR: bugfix: "embed into image" function didn't allow to define a password
+
+  Version 0.6 to 0.7
+----------------------
+
+GR: added Romanian and French translations, thanks to Marian-Nicolae V. Ion 
+    <marian_ion@noos.fr>
+GR: OSX Look'n'feel improvements
+GR: new icons (nicer IMHO)
+GR: icons for the file node - related actions
+GR: i18n have less overhead now
+GR: new translations can be added dinamically, not requiring code changes
+
+  Version 0.5 to 0.6
+----------------------
+
+GR: internationalization
+GR: implemented the About dialog
+GR: removed the disabled Tools menu
+GR: graphical refactoring of all the forms and dialogs, using ZoneLayout to
+    avoid being tied to Netbeans IDE to design the forms
+
+  Version 0.4 to 0.5
+----------------------
+
+GR: added undo (finally) 
+GR: added a function to embed data into images (steganography)
+GR: added the infrastructure for storing user defined options
+GR: added an option to backup files when overwriting
+GR: added an option item to check for upgrades
+GR: optimizations to the code to be able to use the 3rd party libs without 
+    modifications
+GR: graphical redesign of the dialogs
+
+  Version 0.3 to 0.4
+----------------------
+
+GR: the tree has been moved to an external "panel", it's IMHO nicer and solves 
+    all the glitches in resizing
+GR: Added a menu bar to the main window (with accelerators)
+GR: possibility to delete the file after storing it (and saving)
+GR: added the Camellia cypher algorithm
+
+  Version 0.2 to 0.3
+----------------------
+
+GR: File storage node type
+GR: The content of the nodes is streamed into and from the file, thus sparing
+    memory and improving efficiency (esp. for large files)
+GR: Confirmation required when deleting a node
+GR: Use of JOptionPane instead of my custom dialogs, for further standardization
+    with Swing.
+GR: bugfix: if you created a new node, and then cancelled the action, the
+            document was set in Unsaved state, but it shouldn't.
+GR: set the "system" native Swing theme as default; much better-looking in 
+    windows
+GR: added an icon for the application
+GR: use the JDK own ZLib streams, not the custom ones anymore
+
+
+  Version 0.1 to 0.2
+----------------------
+
+GR: set the titles and default position of all the windows
+GR: removed the "Jafe SHA256" encryption engine, I'm just not sure if it's 
+    secure
+GR: removed the ugly & unuseful confirmation dialog in loading and saving files
+GR: managing of the whole "unsaved state" stuff
+GR: internal reorganization of method calls, etc. to reduce memory usage and
+    improve readability
+GR: bugfix: inserting a node as sibling of the selected one used to add it as 
+            the last one on the same father, not as the next one
+GR: added a panel with some infos on the currently open file
+GR: substituted the load/save dialogs with the Swing standard ones
+GR: the file selectors now point by default to reasonable places
+GR: some dialogs are also manageable by typing a key when the button has focus

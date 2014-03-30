@@ -1,0 +1,413 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+
+# SimpleFileNodePanel.java
+msgid "(It will be actually deleted when saving the file)"
+msgstr "(Va fi şters atunci când veţi salva fişierul)"
+
+# MainPanel.java
+msgid "?"
+msgstr "?"
+
+# MainPanel.java
+# EmbedIntoImageDialog.java
+# SimpleFileNodePanel.java
+msgid "A problem has been encountered"
+msgstr "Am dat peste o problemă"
+
+# AboutDialog.java
+msgid "A secure strongbox for your data"
+msgstr "Un fişet securizat pentru datele dv."
+
+# StegOutputStream.java
+# StegInputStream.java
+msgid "A true color (24/32 bit) image is required"
+msgstr "O imagine True Color (24/32 biţi) e necesară"
+
+# MainPanel.java
+# AboutDialog.java
+msgid "About"
+msgstr "Despre"
+
+# NewNodeDialog.java
+msgid "Account"
+msgstr "Cont"
+
+# SidePanel.java
+msgid "Add new item"
+msgstr "Adăugaţi un nou element"
+
+# MainPanel.java
+msgid "An updated version (%s) is available; please upgrade\nto enjoy the latest features and fixes."
+msgstr "O versiune actualizată (%s) e disponibilă; va rugăm să actualizaţi\pentru a avea ultimele funcţionalitaţi şi corecţii."
+
+# OkCancelButtonPanel.java
+msgid "Cancel"
+msgstr "Anulare"
+
+# MainPanel.java
+msgid "Cannot reach the server. Check your net configuration or try again later."
+msgstr "Nu pot să ma conectez la server. Verificaţi configuraţia sau încercaţi mai târziu."
+
+# MainPanel.java
+msgid "Check for updates at startup"
+msgstr "Verifică dacă exista o versiune mai nouă la pornire"
+
+# MainPanel.java
+msgid "Check for updates"
+msgstr "Verificare de noi versiuni"
+
+# EmbedIntoImageDialog.java
+msgid "Choose"
+msgstr "Alege"
+
+# FileInfoDialog.java
+msgid "Cipher"
+msgstr "Cifru"
+
+# DefinePasswordDialog.java
+# EmbedIntoImageDialog.java
+# FileInfoDialog.java
+msgid "Compression"
+msgstr "Compresie"
+
+# SidePanel.java
+# MainPanel.java
+# SimpleFileNodePanel.java
+msgid "Confirmation needed"
+msgstr "Confirmare necesară"
+
+# NewNodeDialog.java
+msgid "Create as"
+msgstr "Creează ca"
+
+# DefinePasswordDialog.java
+msgid "Define encoding parameters"
+msgstr "Definiţi parametrii de codificare"
+
+# SidePanel.java
+msgid "Delete item"
+msgstr "Sterge element"
+
+# NewNodeDialog.java
+msgid "Directory"
+msgstr "Director"
+
+# SidePanel.java
+msgid "Do you really want to delete this node?"
+msgstr "Vreţi cu adevărat să distrugeţi nodul asta?"
+
+# SimpleFileNodePanel.java
+msgid "Do you want to delete the original file?"
+msgstr "Vreţi să ştergeţi fişierul original?"
+
+# SimpleFileNodePanel.java
+msgid "Do you wish to overwrite the existing file?"
+msgstr "Vreţi să scrieţi peste fişierul original?"
+
+# MainPanel.java
+msgid "Edit"
+msgstr "Editare"
+
+# MainPanel.java
+msgid "Embed into an image"
+msgstr "Încorporează într-o imagine"
+
+# EmbedIntoImageDialog.java
+msgid "Embedding parameters"
+msgstr "Parametrii de încorporare"
+
+# DefinePasswordDialog.java
+# EmbedIntoImageDialog.java
+msgid "Encryption"
+msgstr "Criptare"
+
+# PasswordDialog.java
+msgid "Enter password"
+msgstr "Intraţi parola"
+
+# SidePanel.java
+msgid "Error"
+msgstr "Eroare"
+
+# MainPanel.java
+# EmbedIntoImageDialog.java
+# SimpleFileNodePanel.java
+msgid "Failure"
+msgstr "Eşec"
+
+# MainPanel.java
+msgid "File info"
+msgstr "Informaţii despre fişier"
+
+# FileInfoDialog.java
+msgid "File informations"
+msgstr "Detalii despre fişier"
+
+# SimpleFileNodePanel.java
+# FileInfoDialog.java
+msgid "File name"
+msgstr "Nume fişier"
+
+# SimpleFileNodePanel.java
+msgid "File size"
+msgstr "Mărime fişier"
+
+# EmbedIntoImageDialog.java
+msgid "File to save the image into (PNG format)"
+msgstr "Fişier în care să salveze imaginea (format PNG)"
+
+# MainPanel.java
+# NewNodeDialog.java
+msgid "File"
+msgstr "Fişier"
+
+# NewNodeDialog.java
+msgid "Free text"
+msgstr "Text liber"
+
+# MainPanel.java
+msgid "Hide/show side panel"
+msgstr "Arată/ascunde panoul lateral"
+
+# MainPanel.java
+msgid "Language"
+msgstr "Limba"
+
+# AboutDialog.java
+msgid "Licensed under the BSD License"
+msgstr "Licenţiat sub licenţa BSD"
+
+# SimpleFileNodePanel.java
+msgid "Load file"
+msgstr "Incarcă fişierul"
+
+# MainPanel.java
+msgid "Make backups if overwriting"
+msgstr "Face backup-uri în caz de scriere peste"
+
+# MainPanel.java
+# Jafe.java
+msgid "New document"
+msgstr "Document nou"
+
+# NewNodeDialog.java
+msgid "New node"
+msgstr "Nod nou"
+
+# MainPanel.java
+msgid "New version available"
+msgstr "O nouă versiune e disponibilă"
+
+# MainPanel.java
+msgid "New"
+msgstr "Nou"
+
+# CompressionMethod.java
+msgid "No compression"
+msgstr "Fără compresie"
+
+# JafeCipherOutputStream.java
+msgid "Not initialized"
+msgstr "Nu e iniţializat"
+
+# SimpleFileNodePanel.java
+msgid "Notes"
+msgstr "Note"
+
+# FileInfoDialog.java
+msgid "Num. of nodes"
+msgstr "Nr. de noduri"
+
+# MainPanel.java
+# OkCancelButtonPanel.java
+# OkButtonPanel.java
+# SimpleFileNodePanel.java
+msgid "Ok"
+msgstr "Ok"
+
+# MainPanel.java
+msgid "Open"
+msgstr "Deschide"
+
+# SimpleFileNodePanel.java
+msgid "Option"
+msgstr "Opţiuni"
+
+# EmbedIntoImageDialog.java
+msgid "Original image"
+msgstr "Imaginea originală"
+
+# PasswordDialog.java
+# AccountNodePanel.java
+# DefinePasswordDialog.java
+# EmbedIntoImageDialog.java
+msgid "Password"
+msgstr "Parola"
+
+# MainPanel.java
+msgid "Preferences"
+msgstr "Preferinţe"
+
+# MainPanel.java
+msgid "Quit"
+msgstr "Termină programul"
+
+# MainPanel.java
+msgid "Read from an image"
+msgstr "Citeşte dintr-o imagine"
+
+# MainPanel.java
+msgid "Redo"
+msgstr "Reface"
+
+# DefinePasswordDialog.java
+# EmbedIntoImageDialog.java
+msgid "Repeat it"
+msgstr "Repetă"
+
+# SimpleFileNodePanel.java
+msgid "Reset"
+msgstr "Reset"
+
+# MainPanel.java
+msgid "Save as"
+msgstr "Salvează ca"
+
+# SimpleFileNodePanel.java
+msgid "Save file"
+msgstr "Salvează fişierul"
+
+# MainPanel.java
+msgid "Save"
+msgstr "Salvează"
+
+# SidePanel.java
+msgid "Shift down item"
+msgstr "Deplasează elementul în jos"
+
+# SidePanel.java
+msgid "Shift up item"
+msgstr "Deplasează elementul în sus"
+
+# NewNodeDialog.java
+msgid "Sibling of selected node"
+msgstr "Rudă cu nodul selectat"
+
+# NewNodeDialog.java
+msgid "Son of selected node"
+msgstr "Fiul nodului selectat"
+
+# MainPanel.java
+msgid "The application contains unsaved data; do you want to save them?"
+msgstr "Aplicaţia conţine date nesalvate; vreţi să le salvaţi?"
+
+# Tree.java
+msgid "The father doesn't belong to this tree"
+msgstr "Tatăl nu aparţine nodului acesta"
+
+# MainPanel.java
+msgid "The file doesn't seem to contain an image."
+msgstr "Fişierul nu pare să conţină o imagine."
+
+# MainPanel.java
+msgid "The file has been created with a later version of Jafe"
+msgstr "Fişierul a fost creat cu o versiune ulterioară de Jafe"
+
+# MainPanel.java
+msgid "The file is corrupted. Cannot load the data."
+msgstr "Fişierul e corupt. Nu se pot încărca datele."
+
+# EmbedIntoImageDialog.java
+msgid "The image is not valid (must be 24/32 bit)."
+msgstr "Imaginea nu e validă (trebuie să fie 24/32 de biţi)."
+
+# EmbedIntoImageDialog.java
+msgid "The source file doesn't seem to contain an image."
+msgstr "Fişierul sursă nu pare să conţină o imagine."
+
+# SimpleFileNodePanel.java
+msgid "This action can't be undone. Do you want to continue?"
+msgstr "Aceasta acţiune e ireversibilă. Doriţi să continuaţi?"
+
+# UnknownNodePanel.java
+msgid "This node has been probably created with a later version of Jafe. \n\nThe content will be preserved when saving, but you won't be able to view it. \n\nPlease open this file with the appropriated version of Jafe."
+msgstr "Acest nod a fost creat probabil cu o versiune ulterioară a lui Jafe. \n\nConţinutul va fi păstrat la salvare, dar nu veţi putea să-l vedeţi. \n\nDeschideţi acest fişier cu versiunea corespunzătoare de Jafe."
+
+# NodePanel.java
+# NewNodeDialog.java
+msgid "Title"
+msgstr "Titlu"
+
+# Tree.java
+msgid "Too many levels of nidification"
+msgstr "Prea multe nivele de încuibărire."
+
+# AboutDialog.java
+msgid "Translators"
+msgstr "Traducători"
+
+# NewNodeDialog.java
+msgid "Type"
+msgstr "Tip"
+
+# AccountNodePanel.java
+msgid "URL"
+msgstr "URL"
+
+# MainPanel.java
+msgid "Undo"
+msgstr "Anuleaza"
+
+# CompressionMethod.java
+msgid "Unknown compression method"
+msgstr "Metoda de compresie necunoscută"
+
+# CipherAlgorithm.java
+msgid "Unknown encryption algorithm"
+msgstr "Algoritm de criptare necunoscut"
+
+# FileFormatVersion.java
+msgid "Unknown file format"
+msgstr "Format de fişier necunoscut"
+
+# UnknownNodePanel.java
+msgid "Unknown node type"
+msgstr "Tip de nod necunoscut"
+
+# MainPanel.java
+msgid "Unsaved"
+msgstr "Nesalvat"
+
+# NewNodeDialog.java
+msgid "Untitled node"
+msgstr "Nod fără titlu"
+
+# AccountNodePanel.java
+msgid "UserID"
+msgstr "ID utilizator"
+
+# MainPanel.java
+msgid "Wrong password"
+msgstr "Parolă greşită"
+
+# MainPanel.java
+msgid "You already have the latest version."
+msgstr "Aveţi deja ultima versiune."
+
+# SidePanel.java
+msgid "You can't do this on the root node."
+msgstr "Nu puteţi face aceasta nodului rădăcină."
+
+# SidePanel.java
+msgid "You must select a node to do this."
+msgstr "Trebuie selectat un nod pentru a face asta."
+
+# MainPanel.java
+# SimpleFileNodePanel.java
+msgid "Your file has been saved correctly"
+msgstr "Fişierul dv. a fost salvat corect."
+
+# SimpleFileNodePanel.java
+msgid "bytes"
+msgstr "octeţi"

@@ -1,0 +1,8 @@
+GUI
+
+* In an internationalized Mac OS X, selecting a folder whose name is translated
+  (i.e. 'Scrivania' for 'Desktop' in an italian OSX) results in the application
+  not able to access it.
+  
+* unpredicatble behaviour if the folder the jar is launched from isn't writable
+  to update the prefs file

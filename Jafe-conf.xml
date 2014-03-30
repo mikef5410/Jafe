@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Jafe configuration file</comment>
+<entry key="CheckForUpgradesAtStartup">1</entry>
+<entry key="MakeBackups">1</entry>
+</properties>

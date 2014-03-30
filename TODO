@@ -1,0 +1,19 @@
+TODO List:
+
+[1 = very important; 5 = irrilevant]
+
+3 Drag'n'drop repositioning of the rows in the tree
+
+3 Complete key bindings
+3 Password field masking in the AccountNodePanel
+3 Jar signing (via ANT?)
+
+4 Test cases
+
+4 WebStart installer
+4 Update checker
+4 Image storage node (Java2D)
+4 Icons in the menubar
+4 Ctrl+Z/Y don't work when side panel focused
+
+5 Filename in the titlebar (really do it? It could be a disclosure)

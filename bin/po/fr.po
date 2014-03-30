@@ -1,0 +1,413 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+
+# SimpleFileNodePanel.java
+msgid "(It will be actually deleted when saving the file)"
+msgstr "(Sera automatiquement effacé lorsq'on sauvegarde le fichier)"
+
+# MainPanel.java
+msgid "?"
+msgstr "?"
+
+# MainPanel.java
+# EmbedIntoImageDialog.java
+# SimpleFileNodePanel.java
+msgid "A problem has been encountered"
+msgstr "Un problème a été rencontré"
+
+# AboutDialog.java
+msgid "A secure strongbox for your data"
+msgstr "Un coffre-fort sécurisé pour vos données"
+
+# StegOutputStream.java
+# StegInputStream.java
+msgid "A true color (24/32 bit) image is required"
+msgstr "Une image en couleurs vraies (24/32 bits) est nécessaire"
+
+# MainPanel.java
+# AboutDialog.java
+msgid "About"
+msgstr "A propos de"
+
+# NewNodeDialog.java
+msgid "Account"
+msgstr "Compte"
+
+# SidePanel.java
+msgid "Add new item"
+msgstr "Rajouter un nouvel element"
+
+# MainPanel.java
+msgid "An updated version (%s) is available; please upgrade\nto enjoy the latest features and fixes."
+msgstr "Une mise-à-jour est disponible; prière d'actualiser\npour bénéficier de dernières fonctionalités et corrections"
+
+# OkCancelButtonPanel.java
+msgid "Cancel"
+msgstr "Annuler"
+
+# MainPanel.java
+msgid "Cannot reach the server. Check your net configuration or try again later."
+msgstr "Serveur indisponible. Vérifiez votre configuration ou essayez plus tard."
+
+# MainPanel.java
+msgid "Check for updates at startup"
+msgstr "Vérifier les mises-à-jour au démarrage"
+
+# MainPanel.java
+msgid "Check for updates"
+msgstr "Vérification des mises-à-jour"
+
+# EmbedIntoImageDialog.java
+msgid "Choose"
+msgstr "Choisissez"
+
+# FileInfoDialog.java
+msgid "Cipher"
+msgstr "Chiffre"
+
+# DefinePasswordDialog.java
+# EmbedIntoImageDialog.java
+# FileInfoDialog.java
+msgid "Compression"
+msgstr "Compression"
+
+# SidePanel.java
+# MainPanel.java
+# SimpleFileNodePanel.java
+msgid "Confirmation needed"
+msgstr "Confirmation nécessaire"
+
+# NewNodeDialog.java
+msgid "Create as"
+msgstr "Créer sous"
+
+# DefinePasswordDialog.java
+msgid "Define encoding parameters"
+msgstr "Définir les paramètres d'encodage"
+
+# SidePanel.java
+msgid "Delete item"
+msgstr "Effacer l'élément"
+
+# NewNodeDialog.java
+msgid "Directory"
+msgstr "Répertoire"
+
+# SidePanel.java
+msgid "Do you really want to delete this node?"
+msgstr "Voulez-vous vraiment effacer ce noeud ?"
+
+# SimpleFileNodePanel.java
+msgid "Do you want to delete the original file?"
+msgstr "Voulez-vous vraiment effacer le fichier d'origine ?"
+
+# SimpleFileNodePanel.java
+msgid "Do you wish to overwrite the existing file?"
+msgstr "Voulez-vous vraiment écraser le fichier existent ?"
+
+# MainPanel.java
+msgid "Edit"
+msgstr "Edition"
+
+# MainPanel.java
+msgid "Embed into an image"
+msgstr "Incorporer dans une image"
+
+# EmbedIntoImageDialog.java
+msgid "Embedding parameters"
+msgstr "Paramètres d'incorporation"
+
+# DefinePasswordDialog.java
+# EmbedIntoImageDialog.java
+msgid "Encryption"
+msgstr "Crypter"
+
+# PasswordDialog.java
+msgid "Enter password"
+msgstr "Entrez le mot-de-passe"
+
+# SidePanel.java
+msgid "Error"
+msgstr "Ereur"
+
+# MainPanel.java
+# EmbedIntoImageDialog.java
+# SimpleFileNodePanel.java
+msgid "Failure"
+msgstr "Echec"
+
+# MainPanel.java
+msgid "File info"
+msgstr "Renseignements"
+
+# FileInfoDialog.java
+msgid "File informations"
+msgstr "Renseignements sur le fichier"
+
+# SimpleFileNodePanel.java
+# FileInfoDialog.java
+msgid "File name"
+msgstr "Nom du fichier"
+
+# SimpleFileNodePanel.java
+msgid "File size"
+msgstr "Taille du fichier"
+
+# EmbedIntoImageDialog.java
+msgid "File to save the image into (PNG format)"
+msgstr "Fichier de sauvegarde de l'image (format PNG)"
+
+# MainPanel.java
+# NewNodeDialog.java
+msgid "File"
+msgstr "Fichier"
+
+# NewNodeDialog.java
+msgid "Free text"
+msgstr "Texte libre"
+
+# MainPanel.java
+msgid "Hide/show side panel"
+msgstr "Afficher/cacher le paneau latéral"
+
+# MainPanel.java
+msgid "Language"
+msgstr "Language"
+
+# AboutDialog.java
+msgid "Licensed under the BSD License"
+msgstr "Licensié sous la license BSD"
+
+# SimpleFileNodePanel.java
+msgid "Load file"
+msgstr "Charder fichier"
+
+# MainPanel.java
+msgid "Make backups if overwriting"
+msgstr "Faire des backups si écrire par-dessus"
+
+# MainPanel.java
+# Jafe.java
+msgid "New document"
+msgstr "Nouveau document"
+
+# NewNodeDialog.java
+msgid "New node"
+msgstr "Nouveau node"
+
+# MainPanel.java
+msgid "New version available"
+msgstr "Nouvelle version disponible"
+
+# MainPanel.java
+msgid "New"
+msgstr "Nouveau"
+
+# CompressionMethod.java
+msgid "No compression"
+msgstr "Pas de compression"
+
+# JafeCipherOutputStream.java
+msgid "Not initialized"
+msgstr "Pas initialisé"
+
+# SimpleFileNodePanel.java
+msgid "Notes"
+msgstr "Notes"
+
+# FileInfoDialog.java
+msgid "Num. of nodes"
+msgstr "Le nombre de nodes"
+
+# MainPanel.java
+# OkCancelButtonPanel.java
+# OkButtonPanel.java
+# SimpleFileNodePanel.java
+msgid "Ok"
+msgstr "Ok"
+
+# MainPanel.java
+msgid "Open"
+msgstr "Ouvrir"
+
+# SimpleFileNodePanel.java
+msgid "Option"
+msgstr "Option"
+
+# EmbedIntoImageDialog.java
+msgid "Original image"
+msgstr "Image d'origine"
+
+# PasswordDialog.java
+# AccountNodePanel.java
+# DefinePasswordDialog.java
+# EmbedIntoImageDialog.java
+msgid "Password"
+msgstr "Mot de passe"
+
+# MainPanel.java
+msgid "Preferences"
+msgstr "Préférences"
+
+# MainPanel.java
+msgid "Quit"
+msgstr "Quitter"
+
+# MainPanel.java
+msgid "Read from an image"
+msgstr "Lire à partir d'une image"
+
+# MainPanel.java
+msgid "Redo"
+msgstr "Répéter frappe"
+
+# DefinePasswordDialog.java
+# EmbedIntoImageDialog.java
+msgid "Repeat it"
+msgstr "Répétez le"
+
+# SimpleFileNodePanel.java
+msgid "Reset"
+msgstr "Remise-à-zéro"
+
+# MainPanel.java
+msgid "Save as"
+msgstr "Sauvegarder sous"
+
+# SimpleFileNodePanel.java
+msgid "Save file"
+msgstr "Sauvegarder fichier"
+
+# MainPanel.java
+msgid "Save"
+msgstr "Sauvegarder"
+
+# SidePanel.java
+msgid "Shift down item"
+msgstr "Déplacer l'élement vers le bas"
+
+# SidePanel.java
+msgid "Shift up item"
+msgstr "Déplacer l'élement vers le haut"
+
+# NewNodeDialog.java
+msgid "Sibling of selected node"
+msgstr "Parent du noeud sélectionné"
+
+# NewNodeDialog.java
+msgid "Son of selected node"
+msgstr "Enfant du noeud sélectionné"
+
+# MainPanel.java
+msgid "The application contains unsaved data; do you want to save them?"
+msgstr "L'application contient des données non-sauvegardées; voulez-vous les sauver ?"
+
+# Tree.java
+msgid "The father doesn't belong to this tree"
+msgstr "Le père n'appartient pas à cet arbre"
+
+# MainPanel.java
+msgid "The file doesn't seem to contain an image."
+msgstr "Le fichier ne semble pas contenir une image"
+
+# MainPanel.java
+msgid "The file has been created with a later version of Jafe"
+msgstr "Le fichier a été crée avec une version ultérieure de Jafe"
+
+# MainPanel.java
+msgid "The file is corrupted. Cannot load the data."
+msgstr "Le fichier est corrompu. Impossible de charger les données."
+
+# EmbedIntoImageDialog.java
+msgid "The image is not valid (must be 24/32 bit)."
+msgstr "L'image n'est pas valide (doit être 24/32 bits)."
+
+# EmbedIntoImageDialog.java
+msgid "The source file doesn't seem to contain an image."
+msgstr "Le fichier source ne semble pas contenir une image."
+
+# SimpleFileNodePanel.java
+msgid "This action can't be undone. Do you want to continue?"
+msgstr "Cet action est irreversible. Voulez-vous continuer ?"
+
+# UnknownNodePanel.java
+msgid "This node has been probably created with a later version of Jafe. \n\nThe content will be preserved when saving, but you won't be able to view it. \n\nPlease open this file with the appropriated version of Jafe."
+msgstr "Ce noeud a été crée avec une version ultérieure de Jafe. \n\nLe contenu sera préservé lors de la sauvegarde, mais vous ne serez pas capable de le visualiser. \n\nPrière d'ouvrir ce fichier avec la version appropriée de Jafe."
+
+# NodePanel.java
+# NewNodeDialog.java
+msgid "Title"
+msgstr "Titre"
+
+# Tree.java
+msgid "Too many levels of nidification"
+msgstr "Trop de niveaux imbriquées"
+
+# AboutDialog.java
+msgid "Translators"
+msgstr "Traducteurs"
+
+# NewNodeDialog.java
+msgid "Type"
+msgstr "Type"
+
+# AccountNodePanel.java
+msgid "URL"
+msgstr "URL"
+
+# MainPanel.java
+msgid "Undo"
+msgstr "Annuler frappe"
+
+# CompressionMethod.java
+msgid "Unknown compression method"
+msgstr "Méthode de compression inconnue"
+
+# CipherAlgorithm.java
+msgid "Unknown encryption algorithm"
+msgstr "Algorythme de chiffrage inconnu"
+
+# FileFormatVersion.java
+msgid "Unknown file format"
+msgstr "Format de fichier inconnu"
+
+# UnknownNodePanel.java
+msgid "Unknown node type"
+msgstr "Type de noeud inconnu"
+
+# MainPanel.java
+msgid "Unsaved"
+msgstr "Pas sauvegardé"
+
+# NewNodeDialog.java
+msgid "Untitled node"
+msgstr "Noeud sans titre"
+
+# AccountNodePanel.java
+msgid "UserID"
+msgstr "L'id de l'utilisateur"
+
+# MainPanel.java
+msgid "Wrong password"
+msgstr "Mot-de-passe erroné"
+
+# MainPanel.java
+msgid "You already have the latest version."
+msgstr "Vous avez déjà la dernière version."
+
+# SidePanel.java
+msgid "You can't do this on the root node."
+msgstr "Vous ne pouvez faire ça au noeud racine."
+
+# SidePanel.java
+msgid "You must select a node to do this."
+msgstr "Vous devez sélectionner un noeud pour faire ça."
+
+# MainPanel.java
+# SimpleFileNodePanel.java
+msgid "Your file has been saved correctly"
+msgstr "Votre fichier a été bien sauvé"
+
+# SimpleFileNodePanel.java
+msgid "bytes"
+msgstr "octets"
